@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;1,300;1,800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="cabecalho">
+    <h1>2 Ano A</h1>
+    <ul class="cabecalho-lista">
+        <li class="cabecalho-lista-item">Escola</li>
+        <li class="cabecalho-lista-item">Estudante</li>
+      </ul>
+    </header>
+    <section class="escola">
+       <div class="escola-div-conteudo">
+        <h2 class="escola-titulo">Sobre a Escola</h2>
+        <p class="escola-texto-um">A Escola João Ribeiro de Camargo foi fundada há mais de 2 décadas atrás, é uma escola localizada no município de Colombo no estado do Paraná, atualmente ela consta com mais de 300 estudantes e é uma das maiores e mais conhecidas escolas existentes da cidade. </p>
+        <p class="escola-texto-dois">Essa escola possui uma alta quantidade e alunos que ainda hoje estudam lá. E neste site, conheceremos um pouco melhor sobre quem são os seus alunos, principalmente da sala do Segundo Ano A do horário da Manhã. </p>
+        <img class="escola-imagem" src="escola.png" alt="">
+      </div>
+  </section>
+  <section class="estudante"> 
+       <h1 class="estudante-titulo">Quem são nossos estudantes?</h2>
+        <h2 class="estudante-titulo">Alunos:</h2>
+        <div class="estudante-todos">
+        </div class="estudante-div">
+        <img class="estudante-imagem" src="iconealuno.png" alt="">
+        
+  </section>
+</body>
+
+</html>
